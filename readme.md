@@ -15,3 +15,7 @@ For more discussion about this RPM, please see:
 * ha! finally! i have a working centos6 cisco anyconnect vpn rpm! \o/ - http://irclog.perlgeek.de/crimsonfu/2012-02-13#i_5143886
 * nice! some guy just emailed me an RPM spec - https://plus.google.com/107770072576338242009/posts/Jr6nX8jYMVh
 * Getting the Cisco AnyConnect VPN Client to work on CentOS 6 x86_64 - http://people.fas.harvard.edu/~pdurbin/blog/2011/09/15/getting-the-cisco-anyconnect-vpn-client-to-work-on-centos-6-x86_64.html
+
+---
+
+You might also consider http://openvpn.net/index.php/open-source.html
